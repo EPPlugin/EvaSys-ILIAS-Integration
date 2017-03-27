@@ -28,4 +28,4 @@ _Das Plug-in muss zunächst aktiviert werden, bevor es über die Konfigurationso
 
 ## Dokumentation
 
-Für eine detaillierte Dokumentation sowie die Konfiguration des Plug-ins, öffnen Sie bitte die beiliegende Datei ["EvaSys - ILIAS Integration DE.pdf"](https://pages.github.com/).
+Für eine detaillierte Dokumentation sowie die Konfiguration des Plug-ins, öffnen Sie bitte die beiliegende Datei ["EvaSys - ILIAS Integration DE.pdf"](https://github.com/EPPlugin/EvaSys-ILIAS-Integration/blob/master/EvaSys%20-%20ILIAS%20Integration%20DE.pdf).
