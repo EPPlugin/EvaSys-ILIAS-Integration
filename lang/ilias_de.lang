@@ -1,0 +1,45 @@
+// EvaSys ILIAS Plugin
+// Copyright (C) 2016  Electric Paper Evaluationssysteme GmbH
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+//
+// Contact:
+// Electric Paper
+// Evaluationssysteme GmbH
+// Konrad-Zuse-Allee 13
+// 21337 Lüneburg
+// Deutschland
+
+//
+// German Language File for UnirepUI Plugin
+//
+
+<!-- language file start -->
+evasys_surveys#:#EvaSys-Umfragen
+evasys_configuration#:#EvaSys Konfiguration
+evasys_server#:#EvaSys server
+evasys_login_path#:#EvaSys Anmeldepfad
+evasys_soap_user#:#EvaSys SOAP Benutzer
+evasys_soap_password#:#EvaSys SOAP Kennwort
+evasys_connection_timeout#:#Verbindungs timeout
+evasys_logging#:#Logging
+evasys_logfile_path#:#Logdatei (absoluter Pfad zur Logdatei)
+evasys_NO_ILIAS_EMAIL_FOUND#:#Emailadresse des ILIAS-Benutzers konnte nicht gefunden werden.
+evasys_INVALID_WSDL_URL#:#Ungültige WSDL, bitte prüfen Sie die Einstellungen.
+evasys_NO_ONLINE_SURVEYS#:#Keine offenen Onlineumfragen.
+evasys_FOLLOWING_ERROR_OCCURED#:#Der folgende Fehler ist aufgetreten:
+save#:#Speichern
+configuration_saved#:#Konfiguration wurde gespeichert.
+show_block#:#Block auf Persönlichem Schreibtisch anzeigen
+evasys_CONNECTION_SUCCESSFULLY_TESTED#:#Verbindung erfolgreich getestet.
