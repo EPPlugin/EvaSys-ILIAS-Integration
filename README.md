@@ -5,9 +5,9 @@ Die ILIAS-Integration steht unter GPL zur freien Verfügung, wird aber von Elect
 
 Gern unterstützen wir Sie dabei, weitergehende und leistungsfähigere Integrationen mithilfe unseres SDK bzw. der Webservices zu entwickeln und in der Anwenderschaft untereinander auszutauschen. Zugleich erhalten sie auch weiterhin die Möglichkeit, die Original-Plug-ins bei uns unter Support zu belassen, sofern diese unverändert eingesetzt werden.
 
-Die aktuelle Version des Plug-ins (1.0) unterstützt die Sprachen Deutsch und Englisch.
+Die aktuelle Version des Plug-ins (1.0.4) unterstützt die Sprachen Deutsch und Englisch.
 
-Das Plug-in ist getestet unter ILIAS 5.0.
+Das Plug-in ist getestet unter ILIAS 5.2.7.
 
 Damit es reibungslos funktioniert muss die PHP5 SOAP Extension aktiviert sein (dies ist in den meisten PHP5 Installation im Standard der Fall).
 
