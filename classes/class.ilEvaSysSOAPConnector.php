@@ -40,8 +40,8 @@ class ilEvaSysSOAPConnector
 		$oClient = new SoapClient($this->getConfigValue('evasys_server'),
 					array('trace' => 1,
 						'feature' => SOAP_SINGLE_ELEMENT_ARRAYS));
-		$header_input = array(	'Login' => $this->getConfigValue('evasys_soap_user'),
-								'Password' => $this->getConfigValue('evasys_soap_password'));
+		$header_input = (object) array(	'Login' => $this->getConfigValue('evasys_soap_user'),
+										'Password' => $this->getConfigValue('evasys_soap_password'));
 
 
 		$wsdlName = substr($this->getConfigValue('evasys_server'),
